@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I know coding<br>📚 I'm currently learning Full Stack Web-Dev<br>🎯 Goals: 🤔<br>🎲 Fun fact: I also Gamer.</p>
+<p align="left">✨ Creating bugs since I know coding<br>📚 I'm currently learning Full Stack Web-Dev<br>🎯 Goals: 🤔<br>🎲 Fun fact: I also a Gamer.</p>
 
 ###
 
